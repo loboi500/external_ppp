@@ -1,0 +1,6 @@
+Android.bp filter=lfs diff=lfs merge=lfs -text
+CleanSpec.mk filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+pppd filter=lfs diff=lfs merge=lfs -text
+README.version filter=lfs diff=lfs merge=lfs -text
